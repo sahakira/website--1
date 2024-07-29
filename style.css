@@ -54,7 +54,7 @@ header a:hover{
 }
 #showcase{
 min-height: 200px;
-background: url(/images/computer.jpg) no-repeat;
+background: url(./images/computer.jpg) no-repeat;
 width: 100%;
 background-size: cover;
 background-position-y: -80px;
